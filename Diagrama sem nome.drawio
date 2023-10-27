@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-27T13:45:40.760Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="5sy_wTDG5jaHQRmOq3M4" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-27T13:51:52.672Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="3JNeNTnUAH_pz_AakJxe" version="22.0.8" type="github">
   <diagram name="Página-1" id="aweo1jRxj1gEbWjKj29F">
     <mxGraphModel dx="1426" dy="715" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
         <mxCell id="nWgJWmja1YHn_7ayjEUt-7" value="bebe" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="78" width="160" height="162" as="geometry" />
         </mxCell>
-        <mxCell id="nWgJWmja1YHn_7ayjEUt-8" value="&lt;div&gt;id&lt;br&gt;&lt;/div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;data de nascimento&lt;/div&gt;&lt;div&gt;id_mãe&lt;/div&gt;&lt;div&gt;peso&lt;/div&gt;&lt;div&gt;id_bercario&lt;br&gt;&lt;/div&gt;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="nWgJWmja1YHn_7ayjEUt-7" vertex="1">
+        <mxCell id="nWgJWmja1YHn_7ayjEUt-8" value="&lt;div&gt;id&lt;br&gt;&lt;/div&gt;&lt;div&gt;nome&lt;/div&gt;&lt;div&gt;data de nascimento&lt;/div&gt;&lt;div&gt;id_mãe&lt;/div&gt;&lt;div&gt;peso&lt;/div&gt;&lt;div&gt;id_bercario&lt;br&gt;&lt;/div&gt;" style="align=left;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;html=1;" parent="nWgJWmja1YHn_7ayjEUt-7" vertex="1">
           <mxGeometry y="50" width="160" height="112" as="geometry" />
         </mxCell>
         <mxCell id="nWgJWmja1YHn_7ayjEUt-28" value="mae" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;arcSize=4;whiteSpace=wrap;html=1;" parent="1" vertex="1">
